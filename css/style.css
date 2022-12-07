@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+
+/* Navbar */
+.button-login{
+    border: none;
+}
+
+/* Hero */
+.hero-background{
+    background-color: lightgray;
+    height: 450px;
+    padding-top: 150px;
+    margin-top: 30px;
+
+}
+
+.judul{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.sub-judul{
+    font-size: 18px;
+}
